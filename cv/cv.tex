@@ -1,0 +1,195 @@
+\documentclass[letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{Zheguang Samuel Zhao}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+%\def\footerlink{http://jblevins.org/projects/cv-template/}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {economics, statistics, mathematics},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+  Brown University \\
+  Department of Computer Science \\
+  115 Waterman St \\
+  Providence, RI 02912 \\
+  United States of America
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    %Phone: & (608) 630-1677 \\
+    Email: & \href{mailto:sam@cs.brown.edu}{\tt sam@cs.brown.edu} \\
+    Homepage: & \href{https://zheguang.github.io}{\tt zheguang.github.io} \\
+    LinkedIn: & \href{https://www.linkedin.com/in/samuelzhao}{\tt www.linkedin.com/in/samuelzhao} \\
+    Github: & \href{https://github.com/zheguang}{\tt github.com/zheguang} \\
+    Google Scholar: & \href{https://goo.gl/DR8pSa}{\tt goo.gl/DR8pSa} \\
+  \end{tabular}
+\end{minipage}
+
+
+\section*{Research}
+
+I am interested in the theories and designs of big data systems that are intelligent and safe.  My current study focuses on efficient encrypted SQL for provable security.  In the past, I have also dabbled in constraint learning for puzzle-solving AI, false-discovery control in data science, approximate data structures for visualization, database design on hybrid memory, consistency control for stochastic machine learning algorithms, and searchable encryption on mobile text messaging. 
+
+\section*{Education}
+
+\begin{itemize}
+  \item Ph.D. Candidate in Computer Science, Brown University, expected 2019.\\
+  Advisor: Prof. Stan Zdonik, Prof. Seny Kamara
+  \item M.S. in Computer Science, Brown University, 2016.\\
+  Advisor: Prof. Stan Zdonik
+  \item B.S. in Computer Science, University of Wisconsin at Madison, 2012.\\
+  Advisor: Prof. Jignesh Patel
+\end{itemize}
+
+
+\section*{Experiences}
+
+\begin{itemize}
+\item Brown University, RI
+	\begin{itemize}
+		\item Research Assistant, 2014 -- present.
+		\item Teaching Assistant, 2015.
+	\end{itemize}
+\item Microsoft AI \& Research, WA, Research Intern, 2017.
+\item Intel Labs, CA, Research Intern, 2015.
+\item Hadapt (Acquired by Teradata), MA, Software Engineer, 2013 -- 2014.
+\item Kosmix (Acquired by @WalmartLabs), CA, Software Engineer Intern, 2012.
+\item Great Lakes Bioenergy Research Center, WI, Software Engineer Intern, 2010 -- 2012.
+\end{itemize}
+
+\section*{Honors}
+\begin{itemize}
+\item Eta Kappa Nu
+\item Upsilon Pi Epsilon
+\item Golden Key International Honour Society
+\end{itemize}
+
+\section*{Articles}
+
+\begin{itemize}
+
+\item \textit{Signal Search.} \\
+  J. Engelman, S. Kamara, T. Moataz and S. Zhao, \\
+  Software release: \href{http://github.com/encryptedsystems/Searchable-Signal-Android}{\tt http://github.com/encryptedsystems/Searchable-Signal-Android}. \\
+  Press release: \href{http://esl.cs.brown.edu/blog/signal}{\tt http://esl.cs.brown.edu/blog/signal}, April 2017.
+
+\item \textit{Controlling False Discoveries During Interactive Data Exploration.} \\
+  Z. Zhao, L. De Stefani, E. Zgraggen, C. Binnig, E. Upfal and T. Kraska, \\
+  SIGMOD, May 2017.
+
+\item \textit{Safe Visual Data Exploration.} \\
+  Z. Zhao, E. Zgraggen, L. De Stefani, C. Binnig, E. Upfal and T. Kraska, \\
+  SIGMOD Demo, May 2017.
+
+\item \textit{Bridging the Gap between HPC and Big Data frameworks.} \\
+  M. Anderson, S. Smith, N. Sundaram, M. Capota, Z. Zhao, S. Dulloor, N. Satish and T. Willke, \\
+  VLDB, 2017.
+
+\item \textit{Towards Sustainable Insights.} \\
+  C. Binnig, L. De Stefani, T. Kraska, E. Upfal, E. Zgraggen and Z. Zhao, \\
+  CIDR, January 2017.
+
+\item \textit{Towards a Benchmark for Interactive Data Exploration.} \\
+  P. Eichmann, E. Zgraggen, Z. Zhao, C. Binnig, T. Kraska. \\
+   IEEE Data Engineering Bulletin, 2016.
+
+\item \textit{Larger-than-memory Data Management on Modern Storage Hardware for In-memory OLTP Database Systems.} \\
+  L. Ma, J. Arulraj, S. Zhao, A. Pavlo, S. Dulloor, M. Giardino, J. Parkhurst, J. Gardner, K. Doshi and S. Zdonik, \\
+  SIGMOD DaMoN, June 2016.
+
+\item \textit{VisTrees: Fast Indexes for Interactive Data Exploration.} \\
+  M. El-Hindi, Z. Zhao, C. Binnig and T. Kraska, \\
+  SIGMOD HILDA, June 2016.
+
+\item \textit{Data Tiering in Heterogeneous Memory Systems.} \\
+  S. Dulloor, A. Roy, Z. Zhao, N. Sundaram, N. Satish, R. Sankaran, J. Jackson and K. Schwan, \\
+  EuroSys, April 2016.
+
+\end{itemize}
+
+\section*{Selected Coursework}
+\begin{itemize}
+\item \textit{Abstract Algebra}, Prof. Rich Schwartz
+\item \textit{Calculus}, Prof. Donald Passman, Gheorghe Craciun
+\item \textit{Randomized Algorithms for Counting, Integration and Optimzation}, Prof. Paul G. Dupuis
+\item \textit{Cryptography}, Prof. Seny Kamara, Joseph Silverman
+\item \textit{Probability}, Prof. Erik Sudderth, Samuel S. Watson 
+\item \textit{Computational Linguistics}, Prof. Eugene Charniak
+\item \textit{Computer Architecture}, Prof. Sherief Reda, Mark D. Hill
+\item \textit{Distributed Computing through Combinatorial Topology}, Prof. Maurice Herlihy
+\item \textit{Database Management}, Prof. Stan Zdonik, Jignesh Patel, Christopher R\'e
+\item \textit{Microprocessor Synchronization}, Prof. Maurice Herlihy
+\item \textit{Algorithms and Data Structures}, Prof. Eric Vigoda, Ben Liblit
+\item \textit{Operating Systems}, Prof. Michael Swift
+\item \textit{Computer Networks}, Prof. Aditya Akella
+\item \textit{Physics}, Prof. Peter Timbie, Daniel Chung, Ellen Zweibel
+\end{itemize}
+
+\bigskip
+
+\end{document}
