@@ -22,7 +22,7 @@ _CHI_, April 2018.
 
 **Signal Search**.   
 J. Engelman, S. Kamara, T. Moataz and S. Zhao.   
-[Software](https://github.com/encryptedsystems/Searchable-Signal-Android}{\tt https://github.com/encryptedsystems/Searchable-Signal-Android)   
+[Software release](https://github.com/encryptedsystems/Searchable-Signal-Android}{\tt https://github.com/encryptedsystems/Searchable-Signal-Android), 
 [Press release](https://esl.cs.brown.edu/blog/signal}{\tt https://esl.cs.brown.edu/blog/signal)   
 April 2017.
 
