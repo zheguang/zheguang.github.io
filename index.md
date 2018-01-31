@@ -18,12 +18,13 @@ Research
 
 **Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis**.   
 E. Zgraggen, Z. Zhao, R. Zeleznik, and T. Kraska.   
+[Software](https://github.com/zheguang/macau)   
 _CHI_, April 2018.
 
 **Signal Search**.   
 J. Engelman, S. Kamara, T. Moataz and S. Zhao.   
-[Software release](https://github.com/encryptedsystems/Searchable-Signal-Android}{\tt https://github.com/encryptedsystems/Searchable-Signal-Android), 
-[Press release](https://esl.cs.brown.edu/blog/signal}{\tt https://esl.cs.brown.edu/blog/signal)   
+[Software](https://github.com/encryptedsystems/Searchable-Signal-Android}{\tt https://github.com/encryptedsystems/Searchable-Signal-Android), 
+[Press](https://esl.cs.brown.edu/blog/signal}{\tt https://esl.cs.brown.edu/blog/signal)   
 April 2017.
 
 **Controlling False Discoveries During Interactive Data Exploration**.   
@@ -36,10 +37,12 @@ _SIGMOD Demo_, May 2017.
 
 **Bridging the Gap between HPC and Big Data frameworks**.   
 M. Anderson, S. Smith, N. Sundaram, M. Capota, Z. Zhao, S. Dulloor, N. Satish and T. Willke.   
+[Spark performance tool](https://github.com/zheguang/spark-perftool)
 _VLDB_, 2017.
 
 **Towards Sustainable Insights**.   
 C. Binnig, L. De Stefani, T. Kraska, E. Upfal, E. Zgraggen and Z. Zhao.   
+[Code](https://github.com/zheguang/rand-db)
 _CIDR_, January 2017.
 
 **Towards a Benchmark for Interactive Data Exploration.**   
@@ -56,4 +59,5 @@ _SIGMOD HILDA_, June 2016.
 
 **Data Tiering in Heterogeneous Memory Systems.**   
 S. Dulloor, A. Roy, Z. Zhao, N. Sundaram, N. Satish, R. Sankaran, J. Jackson and K. Schwan.   
+[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag)
 _EuroSys_, April 2016.
