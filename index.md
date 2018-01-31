@@ -32,17 +32,17 @@ Z. Zhao, L. De Stefani, E. Zgraggen, C. Binnig, E. Upfal and T. Kraska.
 _SIGMOD_, May 2017.
 
 **Safe Visual Data Exploration**.  
-Z. Zhao, E. Zgraggen, L. De Stefani, C. Binnig, E. Upfal and T. Kraska.  
+Z. Zhao, E. Zgraggen, L. De Stefani, C. Binnig, E. Upfal and T. Kraska.   
 _SIGMOD Demo_, May 2017.
 
 **Bridging the Gap between HPC and Big Data frameworks**.   
 M. Anderson, S. Smith, N. Sundaram, M. Capota, Z. Zhao, S. Dulloor, N. Satish and T. Willke.   
-[Spark performance tool](https://github.com/zheguang/spark-perftool)
+[Spark performance tool](https://github.com/zheguang/spark-perftool)   
 _VLDB_, 2017.
 
 **Towards Sustainable Insights**.   
 C. Binnig, L. De Stefani, T. Kraska, E. Upfal, E. Zgraggen and Z. Zhao.   
-[Code](https://github.com/zheguang/rand-db)
+[Code](https://github.com/zheguang/rand-db)   
 _CIDR_, January 2017.
 
 **Towards a Benchmark for Interactive Data Exploration.**   
@@ -59,5 +59,5 @@ _SIGMOD HILDA_, June 2016.
 
 **Data Tiering in Heterogeneous Memory Systems.**   
 S. Dulloor, A. Roy, Z. Zhao, N. Sundaram, N. Satish, R. Sankaran, J. Jackson and K. Schwan.   
-[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag)
+[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag)   
 _EuroSys_, April 2016.
