@@ -16,16 +16,26 @@ My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://c
 Research
 ========
 
-**Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis**.   
-E. Zgraggen, Z. Zhao, R. Zeleznik, and T. Kraska.   
-_CHI_, April 2018.
-[Paper](https://zheguang.github.io/research/risk-chi.pdf), [Video](http://emanuelzgraggen.com/assets/video/risk.mp4), [Software](https://github.com/zheguang/macau)   
+I am interested in the theories and designs of big data systems that are intelligent and safe. My current study focuses on end-to-end encrypted, provablely secure relational databases (SQL).
+
+In the past, I have also dabbled in constraint learning for puzzle-solving AI, false-discovery control in data science, approximate data structures for visualization, database design on hybrid memory, consistency control for stochastic machine learning algorithms, and searchable encryption on mobile text messaging.
+
+Security and Cryptography
+-------------------------
 
 **Signal Search**.   
 J. Engelman, S. Kamara, T. Moataz and S. Zhao.   
 April 2017.
 [Software](https://github.com/encryptedsystems/Searchable-Signal-Android}{\tt https://github.com/encryptedsystems/Searchable-Signal-Android),
 [Press](https://esl.cs.brown.edu/blog/signal}{\tt https://esl.cs.brown.edu/blog/signal)
+
+Data Science
+------------
+
+**Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis**.   
+E. Zgraggen, Z. Zhao, R. Zeleznik, and T. Kraska.   
+_CHI_, April 2018.
+[Paper](https://zheguang.github.io/research/risk-chi.pdf), [Video](http://emanuelzgraggen.com/assets/video/risk.mp4), [Software](https://github.com/zheguang/macau)   
 
 **Controlling False Discoveries During Interactive Data Exploration**.   
 Z. Zhao, L. De Stefani, E. Zgraggen, C. Binnig, E. Upfal and T. Kraska.   
@@ -36,12 +46,6 @@ _SIGMOD_, May 2017.
 Z. Zhao, E. Zgraggen, L. De Stefani, C. Binnig, E. Upfal and T. Kraska.   
 _SIGMOD Demo_, May 2017.
 [Paper](https://zheguang.github.io/research/risk-sigmod-demo.pdf)
-
-**Bridging the Gap between HPC and Big Data frameworks**.   
-M. Anderson, S. Smith, N. Sundaram, M. Capota, Z. Zhao, S. Dulloor, N. Satish and T. Willke.   
-_VLDB_, 2017.
-[Spark performance tool](https://github.com/zheguang/spark-perftool),
-[Paper](https://zheguang.github.io/research/hpc-big-data.pdf)
 
 **Towards Sustainable Insights**.   
 C. Binnig, L. De Stefani, T. Kraska, E. Upfal, E. Zgraggen and Z. Zhao.   
@@ -54,15 +58,24 @@ P. Eichmann, E. Zgraggen, Z. Zhao, C. Binnig, T. Kraska.
 _IEEE Data Engineering Bulletin_, 2016.
 [Paper](https://zheguang.github.io/research/ide-bench.pdf)
 
-**Larger-than-memory Data Management on Modern Storage Hardware for In-memory OLTP Database Systems.**   
-L. Ma, J. Arulraj, S. Zhao, A. Pavlo, S. Dulloor, M. Giardino, J. Parkhurst, J. Gardner, K. Doshi and S. Zdonik.   
-_SIGMOD DaMoN_, June 2016.
-[Paper](https://zheguang.github.io/research/nvm-anticache.pdf)
-
 **VisTrees: Fast Indexes for Interactive Data Exploration.**   
 M. El-Hindi, Z. Zhao, C. Binnig and T. Kraska.   
 _SIGMOD HILDA_, June 2016.
 [Paper](https://zheguang.github.io/research/vistree.pdf)
+
+Systems
+-------
+
+**Bridging the Gap between HPC and Big Data frameworks**.   
+M. Anderson, S. Smith, N. Sundaram, M. Capota, Z. Zhao, S. Dulloor, N. Satish and T. Willke.   
+_VLDB_, 2017.
+[Spark performance tool](https://github.com/zheguang/spark-perftool),
+[Paper](https://zheguang.github.io/research/hpc-big-data.pdf)
+
+**Larger-than-memory Data Management on Modern Storage Hardware for In-memory OLTP Database Systems.**   
+L. Ma, J. Arulraj, S. Zhao, A. Pavlo, S. Dulloor, M. Giardino, J. Parkhurst, J. Gardner, K. Doshi and S. Zdonik.   
+_SIGMOD DaMoN_, June 2016.
+[Paper](https://zheguang.github.io/research/nvm-anticache.pdf)
 
 **Data Tiering in Heterogeneous Memory Systems.**   
 S. Dulloor, A. Roy, Z. Zhao, N. Sundaram, N. Satish, R. Sankaran, J. Jackson and K. Schwan.   
