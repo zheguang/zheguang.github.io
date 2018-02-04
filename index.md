@@ -5,11 +5,11 @@ title: Home
 
 I'm a PhD student in [Brown CS](https://cs.brown.edu).
 
-My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://cs.brown.edu/~seny/), and [Tarik Moataz](https://cs.brown.edu/~tmoataz/). I also collaborate with Ugur Cetintemel, Carsten Binnig and Tim Kraska in the [Database Group](https://database.cs.brown.edu/), Emanuel Zgraggen in the [Graphics Group](https://graphics.cs.brown.edu/research/) and Eli Upfal and Lorenzo De Stefani in the Theory Group.
+My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://cs.brown.edu/~seny/), and [Tarik Moataz](https://cs.brown.edu/~tmoataz/). I also collaborate with Ugur Cetintemel, Carsten Binnig and Tim Kraska in the Database Group, [Emanuel Zgraggen](http://emanuelzgraggen.com/) in the Graphics Group, and Eli Upfal and Lorenzo De Stefani in the Theory Group.
 
 * [Curriculum vitae](https://zheguang.github.io/cv/cv.pdf)
 * [Google scholar](https://goo.gl/DR8pSa)
-* [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zhao:Zheguang)
+* [DBLP](http://dblp.uni-trier.de/pers/hd/z/Zhao:Zheguang)
 * [LinkedIn](https://www.linkedin.com/in/samuelzhao)
 * [Github](https://github.com/zheguang)
 
@@ -26,8 +26,8 @@ Security and Cryptography
 **Signal Search**.   
 J. Engelman, S. Kamara, T. Moataz and S. Zhao.   
 April 2017.
-[Software](https://github.com/encryptedsystems/Searchable-Signal-Android}{\tt https://github.com/encryptedsystems/Searchable-Signal-Android),
-[Press](https://esl.cs.brown.edu/blog/signal}{\tt https://esl.cs.brown.edu/blog/signal)
+[Software](https://github.com/encryptedsystems/Searchable-Signal-Android),
+[Press](http://esl.cs.brown.edu/blog/signal)
 
 Data Science
 ------------
