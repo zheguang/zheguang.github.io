@@ -34,33 +34,33 @@ Data Science
 
 **Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis**.   
 E. Zgraggen, Z. Zhao, R. Zeleznik, and T. Kraska.   
-_CHI_, April 2018.
+[CHI_, April 2018][1].
 [Paper](https://zheguang.github.io/research/risk-chi.pdf), [Video](http://emanuelzgraggen.com/assets/video/risk.mp4), [Software](https://github.com/zheguang/macau)   
 
 **Controlling False Discoveries During Interactive Data Exploration**.   
 Z. Zhao, L. De Stefani, E. Zgraggen, C. Binnig, E. Upfal and T. Kraska.   
-_SIGMOD_, May 2017.
+[SIGMOD, May 2017][2].
 [Paper](https://zheguang.github.io/research/risk-sigmod.pdf)
 
 **Safe Visual Data Exploration**.  
 Z. Zhao, E. Zgraggen, L. De Stefani, C. Binnig, E. Upfal and T. Kraska.   
-_SIGMOD Demo_, May 2017.
+[SIGMOD Demo, May 2017][2].
 [Paper](https://zheguang.github.io/research/risk-sigmod-demo.pdf)
 
 **Towards Sustainable Insights**.   
 C. Binnig, L. De Stefani, T. Kraska, E. Upfal, E. Zgraggen and Z. Zhao.   
-_CIDR_, January 2017.
+[CIDR, January 2017][3].
 [Code](https://github.com/zheguang/rand-db),
 [Paper](https://zheguang.github.io/research/risk-cidr.pdf)
 
 **Towards a Benchmark for Interactive Data Exploration.**   
 P. Eichmann, E. Zgraggen, Z. Zhao, C. Binnig, T. Kraska.   
-_IEEE Data Engineering Bulletin_, 2016.
+[IEEE Data Engineering Bulletin, 2016][4].
 [Paper](https://zheguang.github.io/research/ide-bench.pdf)
 
 **VisTrees: Fast Indexes for Interactive Data Exploration.**   
 M. El-Hindi, Z. Zhao, C. Binnig and T. Kraska.   
-_SIGMOD HILDA_, June 2016.
+[SIGMOD HILDA, June 2016][5].
 [Paper](https://zheguang.github.io/research/vistree.pdf)
 
 Systems
@@ -68,17 +68,26 @@ Systems
 
 **Bridging the Gap between HPC and Big Data frameworks**.   
 M. Anderson, S. Smith, N. Sundaram, M. Capota, Z. Zhao, S. Dulloor, N. Satish and T. Willke.   
-_VLDB_, 2017.
+[VLDB, 2017][6].
 [Spark performance tool](https://github.com/zheguang/spark-perftool),
 [Paper](https://zheguang.github.io/research/hpc-big-data.pdf)
 
 **Larger-than-memory Data Management on Modern Storage Hardware for In-memory OLTP Database Systems.**   
 L. Ma, J. Arulraj, S. Zhao, A. Pavlo, S. Dulloor, M. Giardino, J. Parkhurst, J. Gardner, K. Doshi and S. Zdonik.   
-_SIGMOD DaMoN_, June 2016.
+[SIGMOD DaMoN, June 2016][7].
 [Paper](https://zheguang.github.io/research/nvm-anticache.pdf)
 
 **Data Tiering in Heterogeneous Memory Systems.**   
 S. Dulloor, A. Roy, Z. Zhao, N. Sundaram, N. Satish, R. Sankaran, J. Jackson and K. Schwan.   
-_EuroSys_, April 2016.
+[EuroSys, April 2016][8].
 [Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag),
 [Paper](https://zheguang.github.io/research/nvm-data-tiering.pdf)
+
+[1]: https://chi2018.acm.org/
+[2]: http://sigmod2017.org/
+[3]: http://cidrdb.org/cidr2017/index.html
+[4]: http://sites.computer.org/debull/A16dec/issue1.htm
+[5]: http://hilda.io/2016/
+[6]: http://www.vldb.org/2017/
+[7]: http://daslab.seas.harvard.edu/damon2016/
+[8]: http://eurosys16.doc.ic.ac.uk/
