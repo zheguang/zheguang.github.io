@@ -31,8 +31,8 @@ April 2017.
 
 Data Science
 ------------
-**Behavior of Large Random Graph.**
-Z.Zhao, supervised by Prof. Paul Dupius.
+**Behavior of Large Random Graph.**   
+Z.Zhao, supervised by Prof. Paul Dupius.   
 Randomized Algorithms for Counting, Integration and Optimzation, Brown University, April 2017.
 [Paper](https://zheguang.github.io/research/random_graph.pdf)
 
