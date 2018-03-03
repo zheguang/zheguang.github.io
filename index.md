@@ -23,70 +23,60 @@ In the past, I have also dabbled in constraint learning for puzzle-solving AI, f
 Security and Cryptography
 -------------------------
 
-**Signal Search**.   
+**[Signal Search](http://esl.cs.brown.edu/blog/signal)**.   
 J. Engelman, S. Kamara, T. Moataz and S. Zhao.   
 April 2017.
-[Software](https://github.com/encryptedsystems/Searchable-Signal-Android),
-[Press](http://esl.cs.brown.edu/blog/signal)
+[[Software](https://github.com/encryptedsystems/Searchable-Signal-Android)]
 
 Data Science
 ------------
-**Behavior of Large Random Graph.**   
+**[Behavior of Large Random Graph](https://zheguang.github.io/research/random_graph.pdf).**   
 Z.Zhao, supervised by Prof. Paul Dupius.   
 Randomized Algorithms for Counting, Integration and Optimzation, Brown University, April 2017.
-[Paper](https://zheguang.github.io/research/random_graph.pdf)
 
 
-**Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis**.   
+**[Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis](https://zheguang.github.io/research/risk-chi.pdf)**.   
 E. Zgraggen, Z. Zhao, R. Zeleznik, and T. Kraska.   
 [CHI][1], April 2018.
-[Paper](https://zheguang.github.io/research/risk-chi.pdf), [Video](http://emanuelzgraggen.com/assets/video/risk.mp4), [Software](https://github.com/zheguang/macau)   
+[[Video](http://emanuelzgraggen.com/assets/video/risk.mp4)], [[Software](https://github.com/zheguang/macau)]
 
-**Controlling False Discoveries During Interactive Data Exploration**.   
+**[Controlling False Discoveries During Interactive Data Exploration](https://zheguang.github.io/research/risk-sigmod.pdf)**.   
 Z. Zhao, L. De Stefani, E. Zgraggen, C. Binnig, E. Upfal and T. Kraska.   
 [SIGMOD][2], May 2017.
-[Paper](https://zheguang.github.io/research/risk-sigmod.pdf)
 
-**Safe Visual Data Exploration**.  
+**[Safe Visual Data Exploration](https://zheguang.github.io/research/risk-sigmod-demo.pdf)**.  
 Z. Zhao, E. Zgraggen, L. De Stefani, C. Binnig, E. Upfal and T. Kraska.   
 [SIGMOD Demo][2], May 2017.
-[Paper](https://zheguang.github.io/research/risk-sigmod-demo.pdf)
 
-**Towards Sustainable Insights**.   
+**[Towards Sustainable Insights](https://zheguang.github.io/research/risk-cidr.pdf)**.   
 C. Binnig, L. De Stefani, T. Kraska, E. Upfal, E. Zgraggen and Z. Zhao.   
 [CIDR][3], January 2017.
-[Code](https://github.com/zheguang/rand-db),
-[Paper](https://zheguang.github.io/research/risk-cidr.pdf)
+[[Code](https://github.com/zheguang/rand-db)]
 
-**Towards a Benchmark for Interactive Data Exploration.**   
+**[Towards a Benchmark for Interactive Data Exploration](https://zheguang.github.io/research/ide-bench.pdf).**   
 P. Eichmann, E. Zgraggen, Z. Zhao, C. Binnig, T. Kraska.   
 [IEEE Data Engineering Bulletin][4], 2016.
-[Paper](https://zheguang.github.io/research/ide-bench.pdf)
 
-**VisTrees: Fast Indexes for Interactive Data Exploration.**   
+**[VisTrees: Fast Indexes for Interactive Data Exploration.](https://zheguang.github.io/research/vistree.pdf)**   
 M. El-Hindi, Z. Zhao, C. Binnig and T. Kraska.   
 [SIGMOD HILDA][5], June 2016.
-[Paper](https://zheguang.github.io/research/vistree.pdf)
 
 Systems
 -------
 
-**Bridging the Gap between HPC and Big Data frameworks**.   
+**[Bridging the Gap between HPC and Big Data frameworks](https://zheguang.github.io/research/hpc-big-data.pdf)**.   
 M. Anderson, S. Smith, N. Sundaram, M. Capota, Z. Zhao, S. Dulloor, N. Satish and T. Willke.   
 [VLDB][6], 2017.
-[Spark performance tool](https://github.com/zheguang/spark-perftool),
-[Paper](https://zheguang.github.io/research/hpc-big-data.pdf)
+[[Spark performance tool](https://github.com/zheguang/spark-perftool)]
 
-**Larger-than-memory Data Management on Modern Storage Hardware for In-memory OLTP Database Systems.**   
+**[Larger-than-memory Data Management on Modern Storage Hardware for In-memory OLTP Database Systems.](https://zheguang.github.io/research/nvm-anticache.pdf)**   
 L. Ma, J. Arulraj, S. Zhao, A. Pavlo, S. Dulloor, M. Giardino, J. Parkhurst, J. Gardner, K. Doshi and S. Zdonik.   
 [SIGMOD DaMoN][7], June 2016.
-[Paper](https://zheguang.github.io/research/nvm-anticache.pdf)
 
-**Data Tiering in Heterogeneous Memory Systems.**   
+**[Data Tiering in Heterogeneous Memory Systems.](https://zheguang.github.io/research/nvm-data-tiering.pdf)**   
 S. Dulloor, A. Roy, Z. Zhao, N. Sundaram, N. Satish, R. Sankaran, J. Jackson and K. Schwan.   
 [EuroSys][8], April 2016.
-[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag),
-[Paper](https://zheguang.github.io/research/nvm-data-tiering.pdf)
+[[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag)]
 
 [1]: https://chi2018.acm.org/
 [2]: http://sigmod2017.org/
