@@ -17,7 +17,7 @@ My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://c
 ### What's on?
 - I'm building encrypted data systems that are provably secure at [Sifr Systems](http://sifrsystems.com) with some [fantastic people](http://sifrsystems.com/#team). We're much more secure than [CryptDB](https://css.csail.mit.edu/cryptdb/).
 - I maintain an external advisory role for [Blockchain Warehouse](https://www.blockchainwarehouse.com).  This gig gets me to talk about blockchain for fun and profit.
-- I provide consultation on [Machine Learning at Critical Future](http://www.criticalfutureglobal.com).
+- I provide consultation on machine learning at [Critical Future](http://www.criticalfutureglobal.com).
 
 
 ### Some old gigs
