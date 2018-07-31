@@ -7,13 +7,13 @@
 
 # Site settings
 title: Zheguang Samuel Zhao
-email: sam@cs.brown.edu
+email: zheguang.zhao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Box 1910, Computer Science Department
   Brown University
   Providence, RI 02912
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://brownbigdata.github.io" # the base hostname & protocol for your site
+url: "http://zheguang.github.io" # the base hostname & protocol for your site
 twitter_username: zhegu
 github_username:  zheguang
 
