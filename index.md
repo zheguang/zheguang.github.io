@@ -53,20 +53,21 @@ Randomized Algorithms for Counting, Integration and Optimzation, Brown Universit
 **[Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis](https://zheguang.github.io/research/risk-chi.pdf)**.   
 Zgraggen, Zhao, Zeleznik, and Kraska.   
 [CHI][1], April 2018.
-[[Video](http://emanuelzgraggen.com/assets/video/risk.mp4)], [[Software](https://github.com/zheguang/macau)]
+[[Video](http://emanuelzgraggen.com/assets/video/risk.mp4)], [[Software](https://github.com/zheguang/macau)], [[Review on Medium](https://medium.com/hci-design-at-uw/multiple-perspectives-on-the-multiple-comparisons-problem-in-visual-analysis-df7493818bbd)]
 
 **[Controlling False Discoveries During Interactive Data Exploration](https://zheguang.github.io/research/risk-sigmod.pdf)**.   
 Zhao, De Stefani, Zgraggen, Binnig, Upfal and Kraska.   
 [SIGMOD][2], May 2017.
+[[Review on Medium](https://medium.com/hci-design-at-uw/multiple-perspectives-on-the-multiple-comparisons-problem-in-visual-analysis-df7493818bbd)]
 
 **[Safe Visual Data Exploration](https://zheguang.github.io/research/risk-sigmod-demo.pdf)**.  
 Zhao, Zgraggen, De Stefani, Binnig, Upfal and Kraska.   
 [SIGMOD Demo][2], May 2017.
 
-**[Towards Sustainable Insights](https://zheguang.github.io/research/risk-cidr.pdf)**.   
+**[Towards Sustainable Insights, or Why Polygamy is Bad for You](https://zheguang.github.io/research/risk-cidr.pdf)**.   
 Binnig, De Stefani, Kraska, Upfal, Zgraggen and Zhao.   
 [CIDR][3], January 2017.
-[[Code](https://github.com/zheguang/rand-db)]
+[[Code](https://github.com/zheguang/rand-db)], [[Review by Adrian Coyler](https://blog.acolyer.org/2017/01/25/toward-sustainable-insights-or-why-polygamy-is-bad-for-you/)]
 
 **[Towards a Benchmark for Interactive Data Exploration](https://zheguang.github.io/research/ide-bench.pdf).**   
 Eichmann, Zgraggen, Zhao, Binnig, Kraska.   
