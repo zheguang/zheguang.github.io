@@ -32,7 +32,7 @@ Some old gigs
 Research
 ========
 
-I am interested in the theories and designs of big data systems that are intelligent and safe. My research spans a broad area covering Cryptograph, Data Science/Machine Learning, and Big Data systems.
+I am interested in the theories and designs of big data systems that are intelligent and safe. My research spans a broad area covering cryptography, data science/machine learning, and big data systems.
 
 In this spirit I have dabbled in constraint learning for puzzle-solving AI, false-discovery control in data science, approximate data structures for visualization, database design on hybrid memory, consistency control for stochastic machine learning algorithms, and searchable encryption on mobile text messaging.
 
