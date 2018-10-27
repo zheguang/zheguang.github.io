@@ -7,27 +7,25 @@ I'm a PhD student in [Brown CS](https://cs.brown.edu).
 
 My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://cs.brown.edu/~seny/), and [Tarik Moataz](https://cs.brown.edu/~tmoataz/). I also collaborate with Ugur Cetintemel, Carsten Binnig and Tim Kraska in the Database Group, [Emanuel Zgraggen](http://emanuelzgraggen.com/) in the Graphics Group, and Eli Upfal and Lorenzo De Stefani in the Theory Group.
 
+I am interested in the theories and designs of big data systems that are intelligent and safe. My research spans a broad area covering cryptography, data science/machine learning, and big data systems. I'm building encrypted data systems that are provably secure at [Sifr Systems](http://sifrsystems.com) with some [fantastic people](http://sifrsystems.com/#team). We're much more secure than [CryptDB](https://css.csail.mit.edu/cryptdb/).
+
 - [Curriculum vitae](https://zheguang.github.io/cv/cv.pdf)
 - [Google scholar](https://goo.gl/DR8pSa)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/z/Zhao:Zheguang)
 - [LinkedIn](https://www.linkedin.com/in/samuelzhao)
 - [Github](https://github.com/zheguang)
 
-
-### What's on?
-- I'm building encrypted data systems that are provably secure at [Sifr Systems](http://sifrsystems.com) with some [fantastic people](http://sifrsystems.com/#team). We're much more secure than [CryptDB](https://css.csail.mit.edu/cryptdb/).
-- I maintain an external advisory role for [Blockchain Warehouse](https://www.blockchainwarehouse.com).  This gig gets me to talk about blockchain for fun and profit.
-- I provide consultation on machine learning at [Critical Future](http://www.criticalfutureglobal.com).
-
-
-### Some old gigs
-
+Some old gigs
+-------------
+- Critical Future's Machine learning Consultancy, 2018
+- Blockchain Warehouse, 2018
 - Microsoft Research & AI, 2017
 - Intel Labs, 2015
 - Hadapt (Acquired by Teradata), 2013-14
 - WalmartLabs, 2012
 
-### Some open-source projects
+Open-source projects
+--------------------
 
 - [Searchable encryption for mobile messaging in Signal](https://github.com/encryptedsystems/Searchable-Signal-Android)
 - [Macau: statistical hypothesis testing based on resampling](https://github.com/zheguang/macau)
@@ -40,9 +38,7 @@ My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://c
 Research
 ========
 
-I am interested in the theories and designs of big data systems that are intelligent and safe. My research spans a broad area covering cryptography, data science/machine learning, and big data systems.
-
-In this spirit I have dabbled in constraint learning for puzzle-solving AI, false-discovery control in data science, approximate data structures for visualization, database design on hybrid memory, consistency control for stochastic machine learning algorithms, and searchable encryption on mobile text messaging.
+My collection of ariticles covering cryptography, data science, and database systems.
 
 Security and Cryptography
 -------------------------
