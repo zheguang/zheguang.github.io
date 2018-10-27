@@ -27,6 +27,15 @@ My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://c
 - Hadapt (Acquired by Teradata), 2013-14
 - WalmartLabs, 2012
 
+### Some open-source projects
+
+- [Searchable encryption for mobile messaging in Signal](https://github.com/encryptedsystems/Searchable-Signal-Android)
+- [Macau: statistical hypothesis testing based on resampling](https://github.com/zheguang/macau)
+- [Machine learning algorithms in Spark](https://github.com/zheguang/spark-study/tree/master/study/src/main/scala/edu/brown/cs/sparkstudy)
+- [Consistency control for machine learning algorithms](https://github.com/zheguang/babel)
+- [R-tree in Rust](https://github.com/zheguang/rtree)
+- [Spark performance analysis tool](https://github.com/zheguang/spark-perftool)
+- [VoltDB on non-volatile memory](https://github.com/zheguang/voltdb)
 
 Research
 ========
@@ -84,6 +93,7 @@ Systems
 Anderson, Smith, Sundaram, Capota, Zhao, Dulloor, Satish and Willke.   
 [VLDB][6], 2017.
 [[Spark performance tool](https://github.com/zheguang/spark-perftool)]
+[[Machine learning code](https://github.com/zheguang/spark-study/tree/master/study/src/main/scala/edu/brown/cs/sparkstudy)]
 
 **[Larger-than-memory Data Management on Modern Storage Hardware for In-memory OLTP Database Systems.](https://zheguang.github.io/research/nvm-anticache.pdf)**   
 Ma, Arulraj, Zhao, Pavlo, Dulloor, Giardino, Parkhurst, Gardner, Doshi and Zdonik.   
