@@ -100,6 +100,15 @@ Dulloor, Roy, Zhao, Sundaram, Satish, Sankaran, Jackson and Schwan.
 [EuroSys][8], April 2016.
 [[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag)]
 
+
+Certificate
+-----------
+- Deep learning specialization, Coursera
+  - Neural Networks and Deep Learning
+  - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - Structuring Machine Learning Projects
+
+
 [1]: https://chi2018.acm.org/
 [2]: http://sigmod2017.org/
 [3]: http://cidrdb.org/cidr2017/index.html
@@ -108,3 +117,4 @@ Dulloor, Roy, Zhao, Sundaram, Satish, Sankaran, Jackson and Schwan.
 [6]: http://www.vldb.org/2017/
 [7]: http://daslab.seas.harvard.edu/damon2016/
 [8]: http://eurosys16.doc.ic.ac.uk/
+
