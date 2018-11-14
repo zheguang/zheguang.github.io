@@ -35,6 +35,13 @@ Open-source projects
 - [Spark performance analysis tool](https://github.com/zheguang/spark-perftool)
 - [VoltDB on non-volatile memory](https://github.com/zheguang/voltdb)
 
+Certificates
+-----------
+- Deep Learning Specialization, *Coursera / deeplearning.ai*
+  - Neural Networks and Deep Learning
+  - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - Structuring Machine Learning Projects
+
 Research
 ========
 
@@ -100,13 +107,6 @@ Dulloor, Roy, Zhao, Sundaram, Satish, Sankaran, Jackson and Schwan.
 [EuroSys][8], April 2016.
 [[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag)]
 
-
-Certificate
------------
-- Deep learning specialization, Coursera
-  - Neural Networks and Deep Learning
-  - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  - Structuring Machine Learning Projects
 
 
 [1]: https://chi2018.acm.org/
