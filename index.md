@@ -108,6 +108,10 @@ Dulloor, Roy, Zhao, Sundaram, Satish, Sankaran, Jackson and Schwan.
 [[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag)]
 
 
+Exposition
+----------
+- Mathematics for Deep Learning. [[pdf](https://zheguang.github.io/exposition/mathematics-for-deep-learning.pdf)]
+
 
 [1]: https://chi2018.acm.org/
 [2]: http://sigmod2017.org/
