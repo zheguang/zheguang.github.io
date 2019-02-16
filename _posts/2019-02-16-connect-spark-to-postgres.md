@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Connect Spark to Postgres"
-categories: systems
+categories: [blog, systems]
+tags: [spark, postgres]
 ---
 
 In this post I will show an example of connecting Spark to Postgres, and pushing SparkSQL queries to run in the Postgres.
