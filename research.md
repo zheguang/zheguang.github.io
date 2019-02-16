@@ -1,19 +1,19 @@
 ---
-layout: page
+layout: default
 title: Research
 permalink: /research/
 ---
 
 My collection of ariticles covering cryptography, data science, and database systems.
 
-### Security and Cryptography
+## Security and Cryptography
 
 **[Signal Search](http://esl.cs.brown.edu/blog/signal)**.   
 Engelman, Kamara, Moataz and Zhao.   
 April 2017.
 [[Software](https://github.com/encryptedsystems/Searchable-Signal-Android)]
 
-### Data Science
+## Data Science
 
 **[Behavior of Large Random Graph](/assets/random_graph.pdf).**   
 Zhao, supervised by Prof. Paul Dupius.   
@@ -47,7 +47,7 @@ Eichmann, Zgraggen, Zhao, Binnig, Kraska.
 El-Hindi, Zhao, Binnig and Kraska.   
 [SIGMOD HILDA][5], June 2016.
 
-### Systems
+## Systems
 
 **[Bridging the Gap between HPC and Big Data frameworks](/assets/hpc-big-data.pdf)**.   
 Anderson, Smith, Sundaram, Capota, Zhao, Dulloor, Satish and Willke.   
