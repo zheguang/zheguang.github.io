@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "About"
 ---
 
 I'm a PhD student in [Brown CS](https://cs.brown.edu).
