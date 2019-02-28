@@ -67,7 +67,7 @@ Dulloor, Roy, Zhao, Sundaram, Satish, Sankaran, Jackson and Schwan.
 
 ## Exposition
 
-- Mathematics for Deep Learning. [[pdf](/assets/mathematics-for-deep-learning.pdf)]
+- Mathematics for Deep Learning. [[pdf](https://github.com/zheguang/exposition/blob/master/mathematics-for-deep-learning/mathematics-for-deep-learning.pdf)]
 
 
 [1]: https://chi2018.acm.org/
