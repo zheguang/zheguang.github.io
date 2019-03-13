@@ -22,7 +22,11 @@ zhe  | 20
 (2 rows)
 
 test_db=# create table class(name text, class text);
-test_db=# inert into class values ('shu', 'nursing'), ('shu', 'coffee'), ('zhe', 'maths'), ('zhe', 'climbing');
+test_db=# inert into class values ('shu', 'nursing'), 
+('shu', 'coffee'), 
+('zhe', 'maths'), 
+('zhe', 'climbing');
+
 test_db=# select *from class;
  name | class
 ------+----------
@@ -90,14 +94,19 @@ We can inspect the query plan to see that it indeed consists of only one operato
 ```scala
 scala> personDf.explain
 == Physical Plan ==
-*(1) Scan JDBCRelation((select * from person) as person) [numPartitions=1] [name#43,age#44] PushedFilters: [], ReadSchema: struct<name:string,age:int>
+*(1) Scan JDBCRelation((select * from person) as person)
+  [numPartitions=1] [name#43,age#44] PushedFilters: [], ReadSchema:
+  struct<name:string,age:int>
 ```
 
 Same thing happens for complicated queries such as:
 ```scala
 scala> spark.read.jdbc(url, "(select avg(age) from person join class on person.name = class.name where class != 'maths') as nonmaths_age", connectionProperties).explain
 == Physical Plan ==
-*(1) Scan JDBCRelation((select avg(age) from person join class on person.name = class.name where class != 'maths') as nonmaths_age) [numPartitions=1] [avg#51] PushedFilters: [], ReadSchema: struct<avg:decimal(38,18)>
+*(1) Scan JDBCRelation((select avg(age) from person join class on
+  person.name = class.name where class != 'maths') as nonmaths_age)
+  [numPartitions=1] [avg#51] PushedFilters: [], ReadSchema:
+  struct<avg:decimal(38,18)>
 ```
 
 ## Pushdown operators using Dataset / DataFrame
@@ -108,7 +117,9 @@ Simple filters:
 ```scala
 scala> personDf.where("age != 23").explain
 == Physical Plan ==
-*(1) Scan JDBCRelation((select * from person) as person) [numPartitions=1] [name#43,age#44] PushedFilters: [*IsNotNull(age), *Not(EqualTo(age,23))], ReadSchema: struct<name:string,age:int>
+*(1) Scan JDBCRelation((select * from person) as person)
+  [numPartitions=1] [name#43,age#44] PushedFilters: [*IsNotNull(age),
+  *Not(EqualTo(age,23))], ReadSchema: struct<name:string,age:int>
 ```
 
 But not other filters such as those involved arithmetics or user-defined behaviors or functions:
@@ -116,14 +127,18 @@ But not other filters such as those involved arithmetics or user-defined behavio
 scala> personDf.where("age + 1 != 23").explain
 == Physical Plan ==
 *(1) Filter NOT ((age#44 + 1) = 23)
-+- *(1) Scan JDBCRelation((select * from person) as person) [numPartitions=1] [name#43,age#44] PushedFilters: [*IsNotNull(age)], ReadSchema: struct<name:string,age:int>
++- *(1) Scan JDBCRelation((select * from person) as person)
+      [numPartitions=1] [name#43,age#44] PushedFilters: [*IsNotNull(age)],
+      ReadSchema: struct<name:string,age:int>
 ```
 
 Moroever, joins are not pushed down at all:
 ```scala
-scala> val classDf = spark.read.jdbc(url, "(select name, class from class) as class", connectionProperties)
+scala> val classDf = spark.read.jdbc(url, "(select name, class from
+  class) as class", connectionProperties)
 scala> val joinDf = personDf.join(classDf, "name")
-joinDf: org.apache.spark.sql.DataFrame = [name: string, age: int ... 1 more field]
+joinDf: org.apache.spark.sql.DataFrame = [name: string, age: int ... 1
+  more field]
 
 scala> joinDf.explain
 == Physical Plan ==
@@ -131,9 +146,14 @@ scala> joinDf.explain
 +- *(5) SortMergeJoin [name#0], [name#13], Inner
    :- *(2) Sort [name#0 ASC NULLS FIRST], false, 0
    :  +- Exchange hashpartitioning(name#0, 200)
-   :     +- *(1) Scan JDBCRelation((select * from person) as p) [numPartitions=1] [name#0,age#1] PushedFilters: [*IsNotNull(name)], ReadSchema: struct<name:string,age:int>
+   :     +- *(1) Scan JDBCRelation((select * from person) as p) 
+                [numPartitions=1] [name#0,age#1] PushedFilters: 
+                [*IsNotNull(name)], ReadSchema: struct<name:string,age:int>
    +- *(4) Sort [name#13 ASC NULLS FIRST], false, 0
       +- Exchange hashpartitioning(name#13, 200)
-         +- *(3) Scan JDBCRelation((select * from class) as c) [numPartitions=1] [name#13,class#14] PushedFilters: [*IsNotNull(name)], ReadSchema: struct<name:string,class:string>
+         +- *(3) Scan JDBCRelation((select * from class) as c) 
+                [numPartitions=1] [name#13,class#14] PushedFilters: 
+                [*IsNotNull(name)], ReadSchema: 
+                [struct<name:string,class:string>
 ```
 As shown above, the two tables are loaded in full from Postgres, and the join is done within Spark using sort-merge join.
