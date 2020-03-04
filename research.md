@@ -8,6 +8,11 @@ My collection of ariticles covering cryptography, data science, and database sys
 
 ## Security and Cryptography
 
+**[An Optimal Relational Database Encryption Scheme](http://esl.cs.brown.edu/blog/signal)**.   
+Kamara, Moataz, Zdonik and Zhao.   
+Cryptology ePrint Archive, 2020.
+[[Software](https://github.com/zheguang/encrypted-spark)]
+
 **[Signal Search](http://esl.cs.brown.edu/blog/signal)**.   
 Engelman, Kamara, Moataz and Zhao.   
 April 2017.
