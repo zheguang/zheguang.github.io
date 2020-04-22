@@ -8,7 +8,7 @@ My collection of ariticles covering cryptography, data science, and database sys
 
 ## Security and Cryptography
 
-**[An Optimal Relational Database Encryption Scheme](http://esl.cs.brown.edu/blog/signal)**.   
+**[An Optimal Relational Database Encryption Scheme](https://eprint.iacr.org/2020/274.pdf)**.   
 Kamara, Moataz, Zdonik and Zhao.   
 Cryptology ePrint Archive, 2020.   
 [[Software](https://github.com/zheguang/encrypted-spark)]
@@ -18,7 +18,7 @@ Engelman, Kamara, Moataz and Zhao.
 April 2017.
 [[Software](https://github.com/encryptedsystems/Searchable-Signal-Android)]
 
-## Data Science
+## Machine Learning
 
 **[Behavior of Large Random Graph](/assets/random_graph.pdf).**   
 Zhao, supervised by Prof. Paul Dupius.   
@@ -53,6 +53,10 @@ El-Hindi, Zhao, Binnig and Kraska.
 [SIGMOD HILDA][5], June 2016.
 
 ## Systems
+
+**[Dynamic Query Refinement for Interactive Data Exploration]**.---
+Kalinin, Cetintemel, Zhao, Zdonik.---
+EDBT, 2020.
 
 **[Bridging the Gap between HPC and Big Data frameworks](/assets/hpc-big-data.pdf)**.   
 Anderson, Smith, Sundaram, Capota, Zhao, Dulloor, Satish and Willke.   
