@@ -7,7 +7,7 @@ I'm a PhD student in [Brown CS](https://cs.brown.edu).
 
 My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://cs.brown.edu/~seny/), and [Tarik Moataz](https://cs.brown.edu/~tmoataz/). I also collaborate with Ugur Cetintemel, Carsten Binnig and Tim Kraska in the Database Group, [Emanuel Zgraggen](http://emanuelzgraggen.com/) in the Graphics Group, and Eli Upfal and Lorenzo De Stefani in the Theory Group.
 
-I am interested in the theories and designs of big data systems that are intelligent and safe. I draw on techniques from cryptography, machine learning, and relatioanl databases. I'm currently building an end-to-end encrypted relational database using Structured Encryption at [Aroki Systems](http://aroki.com). With collaborators at LANL, I'm also designing machine learning algorithms to reconstruct hybrid automata for modeling cyber-physical systems.
+I am interested in the theories and designs of big data systems that are intelligent and safe. I draw on techniques from cryptography, machine learning, and relatioanl databases. I'm currently building an end-to-end encrypted relational database using Structured Encryption at Brown University. With collaborators at LANL, I'm also designing machine learning algorithms to reconstruct hybrid automata for modeling cyber-physical systems.
 
 - [Resume](/assets/resume.pdf)
 - [Research](/research)
@@ -18,7 +18,7 @@ I am interested in the theories and designs of big data systems that are intelli
 - [Blog](/blog)
 
 ## Updates
-- Submitted [An Optimal Relational Database Encryption Scheme](https://eprint.iacr.org/2020/274) to eprint. This work uses token trees, an analogous to query trees in relational algebra, to handle the encrypted query in Structured Encryption. -- March 2020
+- Submitted [An Optimal Relational Database Encryption Scheme](https://eprint.iacr.org/2020/274) to eprint. This work uses token trees, an analogous to query trees in relational algebra, to compute end-to-end encrypted relational queries. -- March 2020
 - Attending EDBT/ICDT Conference in Denmark. -- April 2020
 
 ## Experiences

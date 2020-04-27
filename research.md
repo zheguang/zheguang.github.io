@@ -54,9 +54,9 @@ El-Hindi, Zhao, Binnig and Kraska.
 
 ## Systems
 
-**[Dynamic Query Refinement for Interactive Data Exploration]**.---
+**[Dynamic Query Refinement for Interactive Data Exploration](https://openproceedings.org/2020/conf/edbt/paper_25.pdf)***.---
 Kalinin, Cetintemel, Zhao, Zdonik.---
-EDBT, 2020.
+EDBT, Denmark, March 2020.
 
 **[Bridging the Gap between HPC and Big Data frameworks](/assets/hpc-big-data.pdf)**.   
 Anderson, Smith, Sundaram, Capota, Zhao, Dulloor, Satish and Willke.   
