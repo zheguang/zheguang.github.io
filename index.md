@@ -5,17 +5,14 @@ title: "About"
 
 I'm a PhD student in [Brown CS](https://cs.brown.edu).
 
-My sensei are [Stan Zdonik](https://cs.brown.edu/~sbz/), [Seny Kamara](https://cs.brown.edu/~seny/), and [Tarik Moataz](https://cs.brown.edu/~tmoataz/). I also collaborate with Ugur Cetintemel, Carsten Binnig and Tim Kraska in the Database Group, [Emanuel Zgraggen](http://emanuelzgraggen.com/) in the Graphics Group, and Eli Upfal and Lorenzo De Stefani in the Theory Group.
-
-I am interested in the theories and designs of big data systems that are intelligent and safe. I draw on techniques from cryptography, machine learning, and relatioanl databases. I'm currently building an end-to-end encrypted relational database using Structured Encryption at Brown University. With collaborators at LANL, I'm also designing machine learning algorithms to reconstruct hybrid automata for modeling cyber-physical systems.
+I am interested in the theories and designs of big data systems that are intelligent and safe. I draw on techniques from cryptography, machine learning, and relatioanl databases.
 
 - [Resume](/assets/resume.pdf)
-- [Research](/research)
 - [Google scholar](https://goo.gl/DR8pSa)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/z/Zhao:Zheguang)
 - [LinkedIn](https://www.linkedin.com/in/zheguang)
 - [Github](https://github.com/zheguang)
-- [Blog](/blog)
+- [Research](/research)
 
 ## Updates
 - Submitted [An Optimal Relational Database Encryption Scheme](https://eprint.iacr.org/2020/274) to eprint. This work uses token trees, an analogous to query trees in relational algebra, to compute end-to-end encrypted relational queries. -- March 2020
@@ -24,7 +21,6 @@ I am interested in the theories and designs of big data systems that are intelli
 ## Experiences
 
 - Los Alamos National Laboratory, 2019
-- Aroki Systems, 2019
 - Microsoft Research & AI, 2017
 - Intel Labs, 2015
 - Hadapt (Acquired by Teradata), 2013-14
@@ -44,7 +40,7 @@ I am interested in the theories and designs of big data systems that are intelli
 
 ## Certificates
 
-- Deep Learning Specialization, *Coursera / deeplearning.ai*
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/STLW8PETNB8C), *Coursera / deeplearning.ai*
   - Neural Networks and Deep Learning
   - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - Structuring Machine Learning Projects
