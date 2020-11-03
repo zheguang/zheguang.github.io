@@ -3,9 +3,9 @@ layout: default
 title: "About"
 ---
 
-I'm a PhD student in [Brown CS](https://cs.brown.edu).
+I'm a PhD student in [Brown CS](https://cs.brown.edu). My thesis advisors are Prof. Stan Zdonik and Prof. Seny Kamara. 
 
-I am interested in the theories and designs of big data systems that are intelligent and safe. I draw on techniques from cryptography, machine learning, and relatioanl databases.
+I am interested in the theories and designs of big data systems that are intelligent and safe. I draw on techniques from cryptography, machine learning, and relational databases.
 
 - [Resume](/assets/resume.pdf)
 - [Google scholar](https://goo.gl/DR8pSa)
@@ -15,8 +15,8 @@ I am interested in the theories and designs of big data systems that are intelli
 - [Research](/research)
 
 ## Updates
+- Paper on our project Structurally Encrypted Relational Database accepted at CIDR'21.
 - Submitted [An Optimal Relational Database Encryption Scheme](https://eprint.iacr.org/2020/274) to eprint. This work uses token trees, an analogous to query trees in relational algebra, to compute end-to-end encrypted relational queries. -- March 2020
-- Attending EDBT/ICDT Conference in Denmark. -- April 2020
 
 ## Experiences
 
