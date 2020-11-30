@@ -54,9 +54,9 @@ El-Hindi, Zhao, Binnig and Kraska.
 
 ## Systems
 
-**[Dynamic Query Refinement for Interactive Data Exploration](https://openproceedings.org/2020/conf/edbt/paper_25.pdf)***.---
-Kalinin, Cetintemel, Zhao, Zdonik.---
-EDBT, Denmark, March 2020.
+**[Dynamic Query Refinement for Interactive Data Exploration](https://openproceedings.org/2020/conf/edbt/paper_25.pdf)**.   
+Kalinin, Cetintemel, Zhao, Zdonik.   
+EDBT, Denmark, March 2020.   
 
 **[Bridging the Gap between HPC and Big Data frameworks](/assets/hpc-big-data.pdf)**.   
 Anderson, Smith, Sundaram, Capota, Zhao, Dulloor, Satish and Willke.   
@@ -74,10 +74,9 @@ Dulloor, Roy, Zhao, Sundaram, Satish, Sankaran, Jackson and Schwan.
 [[Code](https://github.com/zheguang/voltdb/tree/sam-redo-tag)]
 
 
-## Exposition
+<!-- ## Exposition -->
 
-- Mathematics for Deep Learning. [[pdf](https://github.com/zheguang/exposition/blob/master/mathematics-for-deep-learning/mathematics-for-deep-learning.pdf)]
-
+<!-- - Mathematics for Deep Learning. [[pdf](https://github.com/zheguang/exposition/blob/master/mathematics-for-deep-learning/mathematics-for-deep-learning.pdf)] -->
 
 [1]: https://chi2018.acm.org/
 [2]: http://sigmod2017.org/
