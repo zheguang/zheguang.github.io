@@ -3,7 +3,7 @@ layout: default
 title: "About"
 ---
 
-I'm a PhD student in [Brown CS](https://cs.brown.edu). My thesis advisors are Prof. Stan Zdonik and Prof. Seny Kamara. 
+I graduated with a PhD in [Brown CS](https://cs.brown.edu). My thesis advisors are Stan Zdonik and Seny Kamara. My committee members are George Kollios and Moti Yung.
 
 I am interested in the theories and designs of big data systems that are intelligent and safe. I draw on techniques from cryptography, machine learning, and relational databases.
 
