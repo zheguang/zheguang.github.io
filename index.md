@@ -3,7 +3,7 @@ layout: default
 title: "About"
 ---
 
-I graduated with a PhD in [Brown CS](https://cs.brown.edu). My thesis advisors are Stan Zdonik and Seny Kamara. My committee members are George Kollios and Moti Yung.
+I graduated with a PhD from [Brown CS](https://cs.brown.edu). My thesis advisors are Stan Zdonik and Seny Kamara. My committee is George Kollios and Moti Yung.
 
 I am interested in the theories and designs of big data systems that are intelligent and safe. I draw on techniques from cryptography, machine learning, and relational databases.
 
@@ -15,11 +15,12 @@ I am interested in the theories and designs of big data systems that are intelli
 - [Research](/research)
 
 ## Updates
-- Paper on our project Structurally Encrypted Relational Database accepted at CIDR'21.
-- Submitted [An Optimal Relational Database Encryption Scheme](https://eprint.iacr.org/2020/274) to eprint. This work uses token trees, an analogous to query trees in relational algebra, to compute end-to-end encrypted relational queries. -- March 2020
+- Paper "ACID-V: Towards a New Class of DBMSs for Data Sharing" accepted at Polystores VLDB'21.
+- Paper "Structurally Encrypted Relational Database" accepted at CIDR'21.
+- Submitted [An Optimal Relational Database Encryption Scheme](https://eprint.iacr.org/2020/274) to eprint.
 
 ## Experiences
-
+- Technical University of Darmstadt, 2021
 - Los Alamos National Laboratory, 2019
 - Microsoft Research & AI, 2017
 - Intel Labs, 2015
