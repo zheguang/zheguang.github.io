@@ -27,8 +27,12 @@ I am interested in the theories and designs of big data systems that are intelli
 - Hadapt (Acquired by Teradata), 2013-14
 - WalmartLabs, 2012
 
-## Open-source projects
+## Current Projects
+- Oblivious relational databases
+- Secure decentralized federated learning
+- Trustable data sharing
 
+## Past Projects
 - [Encrypted spark](https://github.com/zheguang/encrypted-spark)
 - [Learning framework for Cyber-physical systems](https://github.com/zheguang/cyber-physical-learn)
 - [Searchable encryption for mobile messaging in Signal](https://github.com/encryptedsystems/Searchable-Signal-Android)
