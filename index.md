@@ -33,8 +33,8 @@ I am interested in the theories and designs of big data systems that are intelli
 - Trustable data sharing
 
 ## Past Projects
-- [Encrypted spark](https://github.com/zheguang/encrypted-spark)
-- [Learning framework for Cyber-physical systems](https://github.com/zheguang/cyber-physical-learn)
+- [KafeDB: End-to-End Structurally-Encrypted Relational Database](https://zheguang.github.io/kafedb)
+- [ML framework for Cyber-physical systems](https://github.com/zheguang/cyber-physical-learn)
 - [Searchable encryption for mobile messaging in Signal](https://github.com/encryptedsystems/Searchable-Signal-Android)
 - [Macau: statistical hypothesis testing based on resampling](https://github.com/zheguang/macau)
 - [Machine learning algorithms in Spark](https://github.com/zheguang/spark-study/tree/master/study/src/main/scala/edu/brown/cs/sparkstudy)
