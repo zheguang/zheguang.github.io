@@ -10,11 +10,11 @@ title: "About"
 - [Github](https://github.com/zheguang)
 - [Research](/research)
 
-## Blog
-- [My Kafka Agent via Model Context Protocol](https://github.com/zheguang/Notebook/blob/main/Kafka/KafkaMCPAgent/kafka-mcp-agent.pdf)
+## Blog & Talks
+- [Talk: My Kafka Agent via Model Context Protocol](https://github.com/zheguang/Notebook/blob/main/Kafka/KafkaMCPAgent/kafka-mcp-agent.pdf)
 - [Diskless Kafka Summary](https://github.com/zheguang/Notebook/blob/main/Kafka/diskless-summary.md)
 - [Making the Fastest Database Faster -- My Contributions to ClickHouse 25.10](https://github.com/zheguang/Notebook/blob/main/ClickHouse/Contributions-25-10/writeup.md)
-- [Kafka Connector for NetApp Enterprise Storage](https://github.com/zheguang/Notebook/blob/main/Kafka/KafkaNetAppAI/KafkaNetAppAI.pdf)
+- [Talk: Kafka Connector for NetApp Enterprise Storage](https://github.com/zheguang/Notebook/blob/main/Kafka/KafkaNetAppAI/KafkaNetAppAI.pdf)
 - [Would Kafka overflow?](https://github.com/zheguang/Notebook/blob/main/Kafka/would-kafka-offset-overflow.md)
 - [Connect Spark to Postgres](https://zheguang.github.io/blog/systems/2019/02/16/connect-spark-to-postgres.html)
 
