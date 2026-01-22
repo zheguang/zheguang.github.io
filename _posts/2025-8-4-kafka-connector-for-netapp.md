@@ -9,4 +9,5 @@ In particular,
 - Large S3 objects on terabytes scale
 - Large Parquet files over hundreds of gigabytes
 - Auto-tuning for throughput optimization over black-box storage parameters
-[Full content](https://github.com/zheguang/Notebook/blob/main/Kafka/KafkaNetAppAI/KafkaNetAppAI.pdf)
+
+[Full Content](https://github.com/zheguang/Notebook/blob/main/Kafka/KafkaNetAppAI/KafkaNetAppAI.pdf)

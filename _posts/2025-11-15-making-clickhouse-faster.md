@@ -9,4 +9,4 @@ Three of my pull requests are merged into ClickHouse 25.10:
 - 30% speedup on case-insensitive affix search using SIMD
 - Fix parallel data ingestion for constant common table expressions
 
-[Content](https://github.com/zheguang/Notebook/blob/main/ClickHouse/Contributions-25-10/writeup.md)
+[Full Content](https://github.com/zheguang/Notebook/blob/main/ClickHouse/Contributions-25-10/writeup.md)
