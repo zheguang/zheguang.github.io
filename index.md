@@ -28,4 +28,4 @@ title: "About"
 - [R-tree in Rust](https://github.com/zheguang/rtree)
 - [Spark performance analysis tool](https://github.com/zheguang/spark-perftool)
 - [VoltDB on non-volatile memory](https://github.com/zheguang/voltdb)
-- [Approximate trignometric functions in GPGPU](https://github.com/zheguang/assets/gpgpu-approx.pdf)
+- [Approximate trignometric functions in GPGPU](https://zheguang.github.io/assets/gpgpu-approx.pdf)
