@@ -29,3 +29,4 @@ title: "About"
 - [Spark performance analysis tool](https://github.com/zheguang/spark-perftool)
 - [VoltDB on non-volatile memory](https://github.com/zheguang/voltdb)
 - [Approximate trignometric functions in GPGPU](https://zheguang.github.io/assets/gpgpu-approx.pdf)
+- [Behavior of large random graph](https://zheguang.github.io/assets/random_graph.pdf)
